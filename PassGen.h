@@ -30,7 +30,7 @@ private:
     void usage(const char* progName); //вывод подсказки и останов
 public:
     Opts(int argc, char* argv[]); // конструктор
-    string text_shuffling(int len, const string &letters);
+    string text_shuffling(int len, const string &alphavit);
     vector<string> passgen();// "геттеры" с результатами разбора параметров
     int getLen() const
     {
