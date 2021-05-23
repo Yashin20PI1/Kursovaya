@@ -2,7 +2,7 @@
  * @file main.cpp
  * @author Яшин А.А.
  * @version 1.0
- * @date 2.06.21
+ * @date 15.05.21
  * @copyright ИБСТ ПГУ
  * @brief главный модуль Генератора паролей
  */
